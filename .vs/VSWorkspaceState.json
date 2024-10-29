@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\media\\icons",
+    "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\post\\project-management",
+    "\\layouts\\partials",
+    "\\layouts\\partials\\hooks",
+    "\\layouts\\partials\\hooks\\head-end",
+    "\\static\\uploads"
   ],
-  "SelectedNode": "\\C:\\Users\\abdes\\Alcarun",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
