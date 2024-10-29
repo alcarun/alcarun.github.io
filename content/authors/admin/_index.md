@@ -183,6 +183,4 @@ awards:
 
 ## About Me
 
-**À propos d'Abdesslam Lmouidini**
-
 Créatif et polyvalent, je navigue entre le design de jeux vidéo, la production audiovisuelle et la narration visuelle. Avec une expérience en game design, animation 2D, et production documentaire, je crée des expériences immersives et captivantes. Passionné par la culture et l'innovation, je m’efforce d'allier technique et créativité dans chaque projet, du jeu vidéo à la production culturelle.
