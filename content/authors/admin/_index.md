@@ -22,7 +22,7 @@ role: Game Design / Pluridisciplinary
 # Organizations/Affiliations to display in Biography blox 
 organizations: 
   - name: MAJIC 
-    url: https://openai.com/ 
+    url: https://urlr.me/PR78m 
 
 # Social network links 
 profiles: 
@@ -143,6 +143,6 @@ awards:
       Intermediate level course on OOP using the S3 and R6 systems in R. 
 ---
 
-## About Me 
+## À propos de moi 
 
 Créatif et polyvalent, je navigue entre le design de jeux vidéo, la production audiovisuelle et la narration visuelle. Avec une expérience en game design, animation 2D, et production documentaire, je crée des expériences immersives et captivantes. 
