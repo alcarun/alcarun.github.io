@@ -37,7 +37,7 @@ profiles:
     url: https://github.com/a243s 
   - icon: brands/linkedin 
     url: https://www.linkedin.com/in/lmouidini/ 
-  - icon: youtube 
+  - icon: brands/youtube 
     url: https://www.youtube.com/@Resveor 
 
 intérêts: 
