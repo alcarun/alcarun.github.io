@@ -21,7 +21,7 @@ role: Game Design / Pluridisciplinary
 
 # Organizations/Affiliations to display in Biography blox 
 organizations: 
-  - name: MAJIC 
+  - name: Student at MAJIC 
     url: https://urlr.me/PR78m 
 
 # Social network links 
@@ -111,12 +111,12 @@ skills:
         icon: camera 
 
 languages: 
-  - name: English 
+  - name: French 
     percent: 100 
-  - name: Chinese 
+  - name: English 
     percent: 75 
-  - name: Portuguese 
-    percent: 25 
+  - name: Arabic 
+    percent: 55 
 
 # Awards 
 awards: 
