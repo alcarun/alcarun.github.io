@@ -40,12 +40,13 @@ profiles:
   - icon: youtube 
     url: https://www.youtube.com/@Resveor 
 
-interests: 
+intérêts: 
   - Game Design 
   - Machine Learning 
-  - Cinéma 
+  - Audiovisuelle 
+  - Narration
 
-education: 
+éducation: 
   - area: PhD Artificial Intelligence 
     institution: Stanford University 
     date_start: '2016-01-01' 
