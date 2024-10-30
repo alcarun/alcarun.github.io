@@ -34,22 +34,20 @@ profiles:
     url: 'mailto:Elmouidini@icloud.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/alcarun
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/alcarun
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/a243s
   - icon: brands/linkedin
     url: https://www.linkedin.com/lmouidini
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: fab fa-youtube  
+    url: https://www.youtube.com/@Resveor  
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Game Design
+  - Machine Learning
+  - Cinéma
 
 education:
   - area: PhD Artificial Intelligence
