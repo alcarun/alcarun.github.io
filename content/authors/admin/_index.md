@@ -22,7 +22,7 @@ role: Game Design / Pluridisciplinary
 # Organizations/Affiliations to display in Biography blox 
 organizations: 
   - name: MAJIC 
-    url: https://openai.com/ 
+    url: https://urlr.me/PR78m 
 
 # Social network links 
 profiles: 
