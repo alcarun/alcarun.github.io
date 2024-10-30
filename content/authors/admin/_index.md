@@ -3,15 +3,15 @@
 title: Abdesslam Lmouidini
 
 # Name pronunciation (optional)
- # name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Abdesslam 
+first_name: Abdesslam
 last_name: Lmouidini
 
 # Status emoji
 status:
-  icon: ☕
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Game Design/pluridisciplinary
+role: Game Design / Pluridisciplinary
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,28 +28,25 @@ organizations:
     url: https://openai.com/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:Elmouidini@icloud.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/alcarun
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/alcarun
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/a243s
   - icon: brands/linkedin
-    url: https://www.linkedin.com/lmouidini
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/lmouidini
+  - icon: youtube
+    url: https://www.youtube.com/@Resveor
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Game Design
+  - Machine Learning
+  - Cinéma
 
 education:
   - area: PhD Artificial Intelligence
@@ -70,8 +67,6 @@ education:
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -81,63 +76,39 @@ education:
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
-    company_url: ''
-    company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Managing cloud infrastructure
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
         percent: 80
-        icon: code-bracket
+        icon: code
       - name: Data Science
-        description: ''
         percent: 100
-        icon: chart-bar
+        icon: chart
       - name: SQL
-        description: ''
         percent: 40
-        icon: circle-stack
+        icon: database
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: person-walking
       - name: Cats
-        description: ''
         percent: 100
-        icon: cat
+        icon: paw
       - name: Photography
-        description: ''
         percent: 80
         icon: camera
 
@@ -149,10 +120,7 @@ languages:
   - name: Portuguese
     percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -160,27 +128,24 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I studied foundational concepts in neural networks and deep learning.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      Gained an in-depth understanding of Bitcoin and blockchain technology.
+  - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Intermediate level course on OOP using the S3 and R6 systems in R.
 ---
 
 ## About Me
 
-Créatif et polyvalent, je navigue entre le design de jeux vidéo, la production audiovisuelle et la narration visuelle. Avec une expérience en game design, animation 2D, et production documentaire, je crée des expériences immersives et captivantes. Passionné par la culture et l'innovation, je m’efforce d'allier technique et créativité dans chaque projet, du jeu vidéo à la production culturelle.
+Créatif et polyvalent, je navigue entre le design de jeux vidéo, la production audiovisuelle et la narration visuelle. Avec une expérience en game design, animation 2D, et production documentaire, je crée des expériences immersives et captivantes.
