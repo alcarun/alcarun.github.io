@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure 
+role: Student at 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,7 +45,8 @@ education:
     date_start: 2022-10-01
     date_end: 2024-07-31
     summary: |
-      Court Metrage documentaire supervise par [Majida Benkirane](https://example.com), d'une duree de 27 minutes, traitant du sujet du patrimoine culturel marocain.
+      Short documentary supervised by [Majida Benkirane](https://example.com), with a duration of 27 minutes, covering the topic of cultural heritage and dolls.
+    
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
