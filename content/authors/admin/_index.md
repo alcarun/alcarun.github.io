@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: "Étudiant au"
+student_role: &student "Étudiant au"
+role: *student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
