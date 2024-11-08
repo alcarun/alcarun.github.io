@@ -45,7 +45,7 @@ education:
     date_start: 2022-10-01
     date_end: 2024-07-31
     summary: |
-      Court Métrage documentaire supervisé par [Majida Benkirane](https://example.com), d'une durée de 27 minutes, traitant du sujet du patrimoine culturel marocain.
+      Court Metrage documentaire supervise par [Majida Benkirane](https://example.com), d'une duree de 27 minutes, traitant du sujet du patrimoine culturel marocain.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
