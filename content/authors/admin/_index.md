@@ -1,58 +1,58 @@
 ---
 # Display name
-title: 吳健雄
+title: Abdesslam Lmouidini
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abdesslam
+last_name: Lmouidini
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎮
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Etudiant au
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: MAJIC UNICA
+    url: https://univ-cotedazur.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:Lmouidini@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/alcarun
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Alcarun
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/lmouidini/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/alcarun
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master Audiovisuel & Communication
+    institution: EPAG RABAT
+    date_start: 2022-10-01
+    date_end: 2024-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Court Métrage documentaire supervisé par [Majida Benkirane](https://example.com), d'une durée de 27 minutes, traitant du sujet du patrimoine culturel marocain.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor Animation 2D & Game Design
+    institution: 3IS Paris
+    date_start: 2017-09-10
+    date_end: 2020-10-31
     summary: |
       GPA: 3.8/4.0
 
