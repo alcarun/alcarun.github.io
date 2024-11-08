@@ -47,7 +47,7 @@ education:
     summary: |
       Short documentary supervised by [Majida Benkirane](https://example.com), with a duration of 27 minutes, covering the topic of cultural heritage and dolls.
     button:
-      text: 'Read Thesis'
+      text: 'Watch Trailer'
       url: 'https://example.com'
   - area: Bachelor Animation 2D & Game Design
     institution: 3IS Paris
