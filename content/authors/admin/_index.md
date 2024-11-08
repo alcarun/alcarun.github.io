@@ -46,7 +46,6 @@ education:
     date_end: 2024-07-31
     summary: |
       Short documentary supervised by [Majida Benkirane](https://example.com), with a duration of 27 minutes, covering the topic of cultural heritage and dolls.
-    
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
